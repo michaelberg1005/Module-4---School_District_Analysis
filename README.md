@@ -9,8 +9,8 @@ Prior to chaning the 9th grade reading and math grades, Thomas High School was t
 ## Impact to Math and Reading Scores by Grade
 None of the reading and math scores by grade were impacted, except the Thomas High School 9th grade class went from an average math score of 83.6% to a NaN and average reading score of 83.7% to NaN, since we replaced all the scores with NaN.
 ## Impact to Scores by School Spend 
-The only spend group to be impacted from the change in grades is the $630-$644 range, where Thomas High School is. While the average math score % and average reading score % did not change, the spend range had its Passing Math	%, Passing Reading	%, and Overall Passing % lowered from	73%,	84%, and	63%, respectively to 67%,	77%, and	56%, respectively.
+The only spend group to be impacted from the change in grades is the $630-$644 range, where Thomas High School is. While the average math score % and average reading score % did not change, the spend range had its Passing Math	%, Passing Reading	%, and Overall Passing % lowered from	73%,	84%, and	63%, respectively to 67%,	77%, and	56%, respectively, or 6-7% reduction per category.
 ## Impact to Scores by School Size
-xxx
+While the average reading and match scores were not impacted in score by school size, for any category, for the Medium size category, the Passing Math	%, Passing Reading	%, and Overall Passing % all decreased, from 94%,	97%, and	91%, respectively, down to 88%,	91%, and	85%, respectively, or ~6% reduction per category.
 ## Impact to Scores by School Type
-xxx
+While the average reading and match scores were not impacted in score by school type, for any category, for the Charter school category, the Passing Math	%, Passing Reading	%, and Overall Passing % all decreased, from 94%,	97%, and	90%, respectively, down to 90%,	93%, and	87%, respectively, or ~3-4% reduction per category.
