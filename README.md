@@ -7,9 +7,9 @@ By changing the 9th grade Thomas High School math and reading grades to NaN, it 
 ## Impact to Thomas High School Performance
 Prior to chaning the 9th grade reading and math grades, Thomas High School was the second overall rated school by overall passing %. However, after replacing their scores with NaN, Thomas High School dropped to the eighth overall rated school by overall passing %, a significant drop in performance.
 ## Impact to Math and Reading Scores by Grade
-xxx
+None of the reading and math scores by grade were impacted, except the Thomas High School 9th grade class went from an average math score of 83.6% to a NaN and average reading score of 83.7% to NaN, since we replaced all the scores with NaN.
 ## Impact to Scores by School Spend 
-xxx
+The only spend group to be impacted from the change in grades is the $630-$644 range, where Thomas High School is. While the average math score % and average reading score % did not change, the spend range had its Passing Math	%, Passing Reading	%, and Overall Passing % lowered from	73%,	84%, and	63%, respectively to 67%,	77%, and	56%, respectively.
 ## Impact to Scores by School Size
 xxx
 ## Impact to Scores by School Type
